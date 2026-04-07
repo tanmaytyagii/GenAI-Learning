@@ -13,12 +13,12 @@ This repository documents my **hands-on journey in Generative AI**, where I impl
 * Create a solid AI portfolio
 
 ---
-
 ## 📚 Labs & Progress
 
-| Week | Topic                     | Description                                                       |
-| ---- | ------------------------- | ----------------------------------------------------------------- |
-| 1    | Synthetic Data Generation | Implemented a basic generative algorithm to create synthetic data |
+| Week | Topic | Description |
+|------|------|------------|
+| 1 | Synthetic Data Generation | Implemented a basic generative algorithm to create synthetic data |
+| 2 | GAN Image Generation | Trained a basic Generative Adversarial Network (GAN) for image generation |
 
 > ⏳ New labs will be added every week as I progress.
 
