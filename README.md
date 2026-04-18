@@ -43,7 +43,7 @@ This repository includes implementations of the following Generative AI concepts
 | 4    | Text Generation                  | Developed a simple text generation model                                          | ✅      |
 | 5    | Image-to-Image Translation       | Explored transformation between image domains                                     | ✅      |
 | 6    | Pix2Pix Model                    | Implemented Pix2Pix for domain-to-domain image translation                        | ✅      |
-| 7    | Style Transfer                   | Applied neural style transfer techniques                                          |         |
+| 7    | Style Transfer                   | Applied neural style transfer techniques                                          | ✅      |
 | 8    | Neural Art Generation            | Generated artistic outputs using neural networks                                  |         |
 | 9    | Generative Models for Sequences  | Studied applications of generative models in sequential data                      |         |
 | 10   | Sequential Data Generation       | Implemented model for sequence generation                                         |         |
