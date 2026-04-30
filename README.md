@@ -46,7 +46,7 @@ This repository includes implementations of the following Generative AI concepts
 | 7    | Style Transfer                   | Applied neural style transfer techniques                                          | ✅      |
 | 8    | Neural Art Generation            | Generated artistic outputs using neural networks                                  | ✅      |
 | 9    | Generative Models for Sequences  | Studied applications of generative models in sequential data                      | ✅      |
-| 10   | Sequential Data Generation       | Implemented model for sequence generation                                         |         |
+| 10   | Sequential Data Generation       | Implemented model for sequence generation                                         | ✅      |
 | 11   | Fine-Tuning Models               | Fine-tuned a pre-trained generative model for a specific task                     |         |
 | 12   | Attention-Based Generative Model | Implemented a generative model using attention mechanisms                         |         |
 
