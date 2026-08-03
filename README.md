@@ -188,7 +188,7 @@ Each weekly directory is self-contained, holding notebooks, scripts, and (where 
 ### Prerequisites
 
 - Python 3.9+
-- CUDA-enabled GPU (optional, recommended for training)
+- CUDA-enabled GPU (optional)
 - Jupyter Notebook or JupyterLab
 
 ### Installation
@@ -208,18 +208,6 @@ jupyter notebook
 
 **Or via Google Colab:** open any notebook directly through Colab's *GitHub* import tab using this repository's URL.
 
----
-
-## 🖼️ Results Showcase
-
-> Sample outputs, training curves, and generated artifacts will be added here as each module is completed.
-
-| Category | Preview |
-|---|---|
-| Generated Images | _placeholder — add sample GAN/Pix2Pix outputs_ |
-| Training Curves | _placeholder — add loss/accuracy plots_ |
-| Model Outputs | _placeholder — add VAE reconstructions_ |
-| Sample Generations | _placeholder — add text/style-transfer samples_ |
 
 ---
 
@@ -253,13 +241,6 @@ jupyter notebook
 - [ ] Multimodal generative models (text + image)
 - [ ] Agentic AI workflows
 
----
-
-## 📖 Learning Resources
-
-- **Research Papers:** _placeholder — add key papers (GAN, VAE, Attention Is All You Need, DDPM, etc.)_
-- **Documentation:** _placeholder — PyTorch, Hugging Face Transformers, Diffusers docs_
-- **Courses:** _placeholder — relevant Generative AI / Deep Learning courses_
 
 ---
 
